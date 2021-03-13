@@ -1,0 +1,16 @@
+/INode.class
+/IParser.class
+/IScanner.class
+/ITokenizer.class
+/Lexeme.class
+/Parser$AssignmentNode.class
+/Parser$ExpressionNode.class
+/Parser$FactorNode.class
+/Parser$TermNode.class
+/Parser.class
+/ParserException.class
+/Program.class
+/Scanner.class
+/Token.class
+/Tokenizer.class
+/TokenizerException.class
